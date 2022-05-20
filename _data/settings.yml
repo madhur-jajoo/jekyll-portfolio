@@ -7,7 +7,7 @@ logo:
 author: madhur-jajoo
 description: Portfolio - Madhur Jajoo
 email: madhurjajoo@hotmail.com
-phone: +91 <hidden>
+phone: +91 7814 306 770
 address: Assam, INDIA
 copyright: Copyright &copy; 2022 [Madhur Jajoo](https://madhurjajoo.com) & Build using [Jekyll](https://jekyllrb.com)
 
@@ -32,7 +32,7 @@ social:
   - { icon: "ti-twitter", link: "https://twitter.com/jajoo_madhur" }
   - { icon: "ti-github", link: "https://github.com/madhur-jajoo" }
   - { icon: "ti-email", link: "mailto:madhurjajoo@hotmail.com" }
-  - { icon: "ti-mobile", link: "tel:+91" }
+  - { icon: "ti-mobile", link: "tel:+917814306770" }
 
 #-------------------------------
 # Skills Section
@@ -70,14 +70,18 @@ education:
   - {
       name: Bachelors' in Computer Science,
       date: "2019",
-      organization: "Lovely Professional University, PUNJAB",
+      organization: "Lovely Professional University, Punjab, INDIA",
     }
   - {
       name: Higher Secondary,
       date: "2015",
-      organization: "North Lakhimpur College, ASSAM",
+      organization: "North Lakhimpur College, Assam, INDIA",
     }
-  - { name: Secondary School, date: "2012", organization: "Brookfield School" }
+  - {
+      name: Secondary School,
+      date: "2012",
+      organization: "Brookfield School, Assam, INDIA",
+    }
 
 #-------------------------------
 # Contact Section
